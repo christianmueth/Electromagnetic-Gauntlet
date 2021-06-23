@@ -3,6 +3,7 @@ Magnetic gauntlet, using a plug-in electromagnet circuit stripped from a  "levit
 
 IMAGE:
 
+![20210623_031435](https://user-images.githubusercontent.com/59476460/123055047-79cd7400-d3d3-11eb-9cea-3f8fffea5dda.jpg)
 
 
 VIDEO:
